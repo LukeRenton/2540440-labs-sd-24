@@ -60,6 +60,15 @@ body {
 
 }
 
+.services-main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
 .services-flex-container {
     display: flex;
     flex-wrap : nowrap;
